@@ -1,0 +1,8 @@
+nor tackle 40
+gra vinewhip 40 
+fir ember 40
+wat watergun 40
+ele thundershock 40
+
+
+type, name, power

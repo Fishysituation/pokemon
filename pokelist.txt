@@ -1,0 +1,7 @@
+gra bulbasaur 15 10 10
+fir charmander 15 12 8
+wat squirtle 15 7 13
+nor rattata 10 7 7
+ele pikachu 15 10 10 
+
+typ, nam, pow, hp, atk, def
